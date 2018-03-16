@@ -25,12 +25,13 @@ category: blog
 
 ## 命令行调用
 python syncwinproject2linux config.ini helloworld
+
 - config.ini是配置文件可以指定不同的配置文件上传到不同的服务器中
 - helloworld项目的根目录
 
 ## 项目中使用的库
-paramiko ssh库
-pickle 序列化
+- paramiko ssh库
+- pickle 序列化
 
 ## 最后
 有什么问题可以提issue.也可以关注我的微博[van1988ch](https://weibo.com/2296015293/profile)
